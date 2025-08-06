@@ -1,3 +1,3 @@
 # Wordpress
 
-html/css лендинг проект Wordpress.
+Avarage html/css project for practice
